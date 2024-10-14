@@ -101,8 +101,8 @@ const Detail = ({ onOpen }: ISkillSetModal) => {
             Django
           </ListItem>
         </List>
-        <Box>
-          {/* <Text
+        {/* <Box>
+          { <Text
             as="button"
             variant="emphasis"
             fontSize="smaller"
@@ -110,8 +110,8 @@ const Detail = ({ onOpen }: ISkillSetModal) => {
             onClick={onOpen}
           >
             See my full arsenal <Icon as={IoMdOpen}/>
-          </Text> */}
-        </Box>
+          </Text> }
+        </Box> */}
       </SimpleGrid>
     </Stack>
   )
