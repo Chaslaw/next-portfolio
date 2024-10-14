@@ -52,7 +52,7 @@ const Detail = ({ onOpen }: ISkillSetModal) => {
           fontVariantCaps: 'small-caps',
         }}
       >
-        Who am I?
+        Let me introduce myself
       </Heading>
       <Text variant="description">
         I`ve been coding professionally for 6 years now and
